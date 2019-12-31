@@ -1,4 +1,4 @@
-# ShortcutMerucari
+# ShortcutMercari
 
 iOS/iPadOSで提供されているショートカットを活用するために作成されたPythonスクリプト群
 
